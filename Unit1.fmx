@@ -1,8 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Form1'
-  ClientHeight = 612
+  ClientHeight = 316
   ClientWidth = 320
   FormFactor.Width = 320
   FormFactor.Height = 480
@@ -18,19 +17,32 @@ object Form1: TForm1
     TextSettings.Font.StyleExt = {00070000000000000004000000}
     TextSettings.HorzAlign = Center
     Text = '0'
-    TabOrder = 1
+    TabOrder = 2
   end
   object Button1: TButton
     Align = Bottom
     StyledSettings = [Family, FontColor]
-    Position.Y = 536.000000000000000000
+    Position.Y = 240.000000000000000000
     Size.Width = 320.000000000000000000
     Size.Height = 76.000000000000000000
     Size.PlatformDefault = False
-    TabOrder = 2
+    TabOrder = 3
     Text = 'EXECUTAR'
     TextSettings.Font.Size = 24.000000000000000000
     TextSettings.Font.StyleExt = {00060000000000000004000000}
     OnClick = Button1Click
+  end
+  object Label2: TLabel
+    Align = Top
+    StyledSettings = [Family]
+    Size.Width = 320.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 36.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = xFFA2BEFB
+    TextSettings.HorzAlign = Center
+    Text = 'Novo Projeto'
+    TabOrder = 1
   end
 end

@@ -11,6 +11,7 @@ type
   TForm1 = class(TForm)
     Label1: TLabel;
     Button1: TButton;
+    Label2: TLabel;
     procedure Button1Click(Sender: TObject);
   private
     procedure EncerraThread(Sender: Tobject);

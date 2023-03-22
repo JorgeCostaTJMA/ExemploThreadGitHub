@@ -2,10 +2,10 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/10/10 11:55:25.000.913,=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/02/02 13:43:36.138,=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/02/02 13:50:58.582,C:\DelphiCE\ExemploThread\Unit1.fmx=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2023/02/02 13:50:58.582,C:\DelphiCE\ExemploThread\Unit1.pas=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/02/02 13:51:12.406,C:\DelphiCE\ExemploThread\thread.dproj=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/02 13:43:36.000.138,=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/02 13:50:58.000.582,C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\DelphiCE\ExemploThread\Unit1.fmx</Transaction>
+    <Transaction>2023/02/02 13:50:58.000.582,C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\DelphiCE\ExemploThread\Unit1.pas</Transaction>
+    <Transaction>2023/02/02 13:51:12.000.406,C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\DelphiCE\ExemploThread\thread.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>
